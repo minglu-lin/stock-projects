@@ -2,7 +2,7 @@
 
 [![Architecture](https://img.shields.io/badge/Architecture-Git%20Submodules%20Meta--Repo-blue.svg)](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 [![Projects](https://img.shields.io/badge/Submodules-6%20Projects-green.svg)](#子项目矩阵)
-[![Visibility](https://img.shields.io/badge/Access-Private-red.svg)](#)
+[![Visibility](https://img.shields.io/badge/Access-Public-brightgreen.svg)](#)
 
 本项目是集中汇总美股基本面深度研究、巴菲特估值建模、事件与财报跟踪、单股技术指标计算与量化交易策略平台的**聚合元仓库 (Meta-Repository)**。
 
