@@ -1,0 +1,18 @@
+[submodule "stock-kline-analyzer"]
+	path = stock-kline-analyzer
+	url = https://github.com/minglu-lin/stock-kline-analyzer.git
+[submodule "buffett-earnings-toolkit"]
+	path = buffett-earnings-toolkit
+	url = https://github.com/minglu-lin/buffett-earnings-toolkit.git
+[submodule "equity-research-hub"]
+	path = equity-research-hub
+	url = https://github.com/minglu-lin/equity-research-hub.git
+[submodule "buffett-us-research-store"]
+	path = buffett-us-research-store
+	url = https://github.com/minglu-lin/buffett-us-research-store.git
+[submodule "buffett-us-equities-suite"]
+	path = buffett-us-equities-suite
+	url = https://github.com/minglu-lin/buffett-us-equities-suite.git
+[submodule "custom-quant-strategy"]
+	path = custom-quant-strategy
+	url = https://github.com/minglu-lin/custom-quant-strategy.git
